@@ -1,0 +1,6 @@
+port:=8080
+$[
+host:'localhost',
+port:@(port),
+debug:true
+]
